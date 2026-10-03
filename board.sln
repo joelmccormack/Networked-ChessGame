@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessGame", "board\ChessGame.csproj", "{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "networking", "networking\networking.csproj", "{9E825A15-E761-424D-A2EB-C26BA2F6D205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E825A15-E761-424D-A2EB-C26BA2F6D205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E825A15-E761-424D-A2EB-C26BA2F6D205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E825A15-E761-424D-A2EB-C26BA2F6D205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E825A15-E761-424D-A2EB-C26BA2F6D205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386087E4-97D6-44CE-B7C7-1A74F75C2003}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E825A15-E761-424D-A2EB-C26BA2F6D205}|networking\\networking.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\networking\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E825A15-E761-424D-A2EB-C26BA2F6D205}|networking\\networking.csproj|solutionrelative:networking\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\chessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\chessclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\chessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\chessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\chessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\chessui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\boardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\boardstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\chessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\chessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\chessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\chessmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|c:\\users\\jm155982\\onedrive - hills road sixth form college\\nea\\board\\board\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E6A6E8-C1A7-4C5C-9891-0D8B3E992F64}|board\\ChessGame.csproj|solutionrelative:board\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChessMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessMenu.cs",
+              "RelativeDocumentMoniker": "board\\ChessMenu.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessMenu.cs",
+              "RelativeToolTip": "board\\ChessMenu.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:54.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\networking\\GameServer.cs",
+              "RelativeDocumentMoniker": "networking\\GameServer.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\networking\\GameServer.cs",
+              "RelativeToolTip": "networking\\GameServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:11.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessClient.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessClient.cs",
+              "RelativeDocumentMoniker": "board\\ChessClient.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessClient.cs",
+              "RelativeToolTip": "board\\ChessClient.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwHwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:07.133Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessUI.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessUI.cs",
+              "RelativeDocumentMoniker": "board\\ChessUI.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessUI.cs",
+              "RelativeToolTip": "board\\ChessUI.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:02:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoardState.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\BoardState.cs",
+              "RelativeDocumentMoniker": "board\\BoardState.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\BoardState.cs",
+              "RelativeToolTip": "board\\BoardState.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:02:29.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessMenu.cs",
+              "RelativeDocumentMoniker": "board\\ChessMenu.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessMenu.cs [Design]",
+              "RelativeToolTip": "board\\ChessMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessUI.cs",
+              "RelativeDocumentMoniker": "board\\ChessUI.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\ChessUI.cs [Design]",
+              "RelativeToolTip": "board\\ChessUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:00:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Piece.cs",
+              "RelativeDocumentMoniker": "board\\Piece.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Piece.cs",
+              "RelativeToolTip": "board\\Piece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Pawn.cs",
+              "RelativeDocumentMoniker": "board\\Pawn.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Pawn.cs",
+              "RelativeToolTip": "board\\Pawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\King.cs",
+              "RelativeDocumentMoniker": "board\\King.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\King.cs",
+              "RelativeToolTip": "board\\King.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAANAuwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Knight.cs",
+              "RelativeDocumentMoniker": "board\\Knight.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Knight.cs",
+              "RelativeToolTip": "board\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Rook.cs",
+              "RelativeDocumentMoniker": "board\\Rook.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Rook.cs",
+              "RelativeToolTip": "board\\Rook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Bishop.cs",
+              "RelativeDocumentMoniker": "board\\Bishop.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Bishop.cs",
+              "RelativeToolTip": "board\\Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Queen.cs",
+              "RelativeDocumentMoniker": "board\\Queen.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Queen.cs",
+              "RelativeToolTip": "board\\Queen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Position.cs",
+              "RelativeDocumentMoniker": "board\\Position.cs",
+              "ToolTip": "C:\\Users\\jm155982\\OneDrive - Hills Road Sixth Form College\\NEA\\board\\board\\Position.cs",
+              "RelativeToolTip": "board\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMASwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:01:07.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
