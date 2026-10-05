@@ -315,7 +315,3 @@ No automated unit tests are included in the repository. Testing is performed man
 - **State Management** — Synchronized board state between networked players; maintained consistency across distributed game sessions
 - **Software Architecture** — Separated concerns (UI, logic, networking) for clean, maintainable code
 - **Problem Solving** — Managed real-time multiplayer challenges including latency, state synchronization, and session discovery
-
-## License
-
-[Add your preferred license here]
