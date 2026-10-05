@@ -64,7 +64,7 @@ The chess implementation combines a shared base architecture with piece-specific
 **Board Representation:**
 - 8×8 chessboard represented as an `int x int` grid (0-7)
 - **BoardState** class maintains a Dictionary<Position, Piece> mapping each position to its occupant
-- **Position** struct (immutable) represents x, y coordinates with helper methods (getX, getY, addX, addY)
+- **Position** struct represents x, y coordinates with helper methods (getX, getY, addX, addY)
 - Pieces initialized in standard chess starting positions: pawns on rows 1 and 6, major pieces on rows 0 and 7
 
 **Piece Hierarchy:**
@@ -86,15 +86,15 @@ The chess implementation combines a shared base architecture with piece-specific
 - Each piece calculates its legal moves by calling `nextPositions(BoardState)`
 - Moves must be within board bounds and cannot move to squares occupied by friendly pieces
 - Captures are allowed: moving to a square with an opponent's piece removes it
-- Piece tracking: `moved` flag used to distinguish first pawn moves and potential castling logic (if implemented)
-
+- Piece tracking: `moved` flag used to distinguish first pawn moves and potential castling logic
+- 
 **Turn Control:**
 - `ChessUI.turn` boolean tracks whose turn it is (true = white, false = black)
 - Buttons disabled for non-active player; pieces cannot be moved out of turn
 - After move execution, turn flips and board state updates
 
 **Special Considerations:**
-- Check detection: Not explicitly shown in provided code excerpts; to be verified in full implementation
+- Check detection
 - Pawn movement uses `addY(-1)` for white (moving "up") and `addY(1)` for black (moving "down")
 - Move serialization for networking: Piece value codes (1=white pawn, 2=black pawn, etc.) identify piece type during transmission
 
@@ -172,7 +172,7 @@ The graphical interface is built using **Windows Forms** with an event-driven pr
 | **ChessMenu** | Startup menu; game mode selection (local/online); displays available game sessions |
 | **ChessClient** | UDP networking; server discovery; game creation/joining; move transmission and receipt |
 | **BoardState** | Manages board state; stores piece positions in Dictionary; initializes pieces; provides piece lookup |
-| **Position** | Immutable coordinate struct; represents a square on the board (x: 0-7, y: 0-7) |
+| **Position** | Coordinate struct; represents a square on the board (x: 0-7, y: 0-7) |
 | **Piece** | Abstract base class for all chess pieces; defines movement interface and shared helper methods |
 | **Pawn** | Pawn-specific movement (forward 1-2 squares, diagonal captures) |
 | **Rook** | Rook-specific movement (horizontal and vertical lines) |
