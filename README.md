@@ -10,7 +10,7 @@ Networked Chess Game is a multiplayer chess desktop application built with C# an
 - **Local Pass-and-Play** — Play against a friend on the same machine without networking
 - **Game-Session Management** — Create named game sessions and discover available sessions on the network
 - **UDP-Based Communication** — Real-time game-state synchronization between networked players using UDP sockets
-- **Interactive Windows Forms Interface** — Drag-and-drop board interaction with visual feedback
+- **Interactive Windows Forms Interface** — Click-based board interaction with visual feedback
 - **Piece Selection and Movement** — Click pieces to select, with valid move destinations highlighted
 - **Strict Move Validation** — Individual piece classes enforce chess movement rules
 - **All Chess Pieces Implemented** — Pawn, Rook, Knight, Bishop, Queen, King with piece-specific movement rules
