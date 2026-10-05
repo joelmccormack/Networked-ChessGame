@@ -89,7 +89,3 @@ This project demonstrates:
 - **Windows Forms Development** — Building desktop UI with event-driven programming
 - **Object-Oriented Design** — Inheritance patterns (base Piece class with specialized implementations)
 - **State Management** — Synchronizing game state across multiple clients
-
-## License
-
-[Add your preferred license here]
